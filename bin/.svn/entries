@@ -1,0 +1,101 @@
+10
+
+dir
+61
+svn+ssh://ug250.eecg.utoronto.ca/svn/os-006/svn/trunk/bin
+svn+ssh://ug250.eecg.utoronto.ca/svn/os-006/svn
+
+
+
+2015-01-17T00:55:32.659118Z
+3
+zhouhan4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6fd5d065-33a7-4c61-b43b-db8e66957e58
+
+false
+dir
+
+pwd
+dir
+
+sh
+dir
+
+sync
+dir
+
+rmdir
+dir
+
+Makefile
+file
+
+
+
+
+2015-01-17T00:44:21.181604Z
+dca1c0e2cb1dbc80526c5dd8608c63be
+2015-01-17T00:42:53.924789Z
+2
+zhouhan4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+522
+
+ls
+dir
+
+rm
+dir
+
+true
+dir
+
+cp
+dir
+
+mv
+dir
+
+mkdir
+dir
+
+cat
+dir
+
+ln
+dir
+
